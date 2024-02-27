@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/horodylova-my-crud-app/static/js/main.08e1efd7.js",
+    "main.js": "/horodylova-my-crud-app/static/js/main.dcf575c8.js",
     "index.html": "/horodylova-my-crud-app/index.html",
-    "main.08e1efd7.js.map": "/horodylova-my-crud-app/static/js/main.08e1efd7.js.map"
+    "main.dcf575c8.js.map": "/horodylova-my-crud-app/static/js/main.dcf575c8.js.map"
   },
   "entrypoints": [
-    "static/js/main.08e1efd7.js"
+    "static/js/main.dcf575c8.js"
   ]
 }
